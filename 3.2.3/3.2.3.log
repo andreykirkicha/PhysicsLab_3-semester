@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.1.29)  8 SEP 2023 01:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.1.29)  8 SEP 2023 08:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -638,6 +638,9 @@ LaTeX Warning: Label `fig:image2' multiply defined.
 
 LaTeX Warning: Label `fig:image2' multiply defined.
 
+
+LaTeX Warning: Label `fig:image2' multiply defined.
+
 )
 \openout1 = `3.2.3.aux'.
 
@@ -860,23 +863,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-File: pic_1.png Graphic file (type png)
-<use pic_1.png>
-Package pdftex.def Info: pic_1.png  used on input line 484.
-(pdftex.def)             Requested size: 380.13922pt x 265.47113pt.
+<DIAGRAM.jpg, id=103, 136.3494pt x 198.9834pt>
+File: DIAGRAM.jpg Graphic file (type jpg)
+<use DIAGRAM.jpg>
+Package pdftex.def Info: DIAGRAM.jpg  used on input line 484.
+(pdftex.def)             Requested size: 177.25417pt x 258.67838pt.
 [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.488 	\n
-          <./R_L.png>] [11
+          <./R_L.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+[11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.493 \end{document}
-                    ] (3.2.3.aux)
+l.497 \end{document}
+                     <./DIAGRAM.jpg>] (3.2.3.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -884,10 +893,10 @@ Package rerunfilecheck Info: File `3.2.3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12527 strings out of 476375
- 198141 string characters out of 5785671
+ 12538 strings out of 476375
+ 198289 string characters out of 5785671
  1880299 words of memory out of 5000000
- 32673 multiletter control sequences out of 15000+600000
+ 32682 multiletter control sequences out of 15000+600000
  525087 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,15n,79p,849b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -911,11 +920,12 @@ sfonts/cm/cmr12.pfb><C:/Users/Андрей/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Андрей/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Андрей/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ан�
-�рей/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-
-Output written on 3.2.3.pdf (12 pages, 461274 bytes).
+�рей/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+<C:/Users/Андрей/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb>
+Output written on 3.2.3.pdf (12 pages, 501631 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
